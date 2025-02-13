@@ -24,7 +24,7 @@ const Landing = () => {
       {/* <div className='text-white absolute z-20 animate-spiralDown'><ImLeaf size={25}/></div> */}
       <div className='text-white absolute z-20 animate-leafFall1 h-[46vh]'><ImLeaf size={25} /></div>
       <div className='text-white absolute z-20 animate-leafFall2 h-[46vh]'><ImLeaf size={25} /></div>
-      <div className='h-[92vh] w-full flex justify-center items-center'>
+      <div className='h-[100vh] w-full flex justify-center items-center'>
 
         <div className='h-full w-full '>
           <img src="https://img.pikbest.com/wp/202413/cartoon-illustration-landscape-game-background_10466527.jpg!sw800" alt=""

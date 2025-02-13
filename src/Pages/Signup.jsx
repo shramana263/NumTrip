@@ -45,7 +45,7 @@ const Signup = () => {
     return (
         <>
             <div className='flex flex-col gap-6 w-screen h-[92vh] items-center'>
-                <div className='h-[92vh] w-full'>
+                <div className='h-[100vh] w-full'>
                     <img src="https://img.freepik.com/premium-photo/digital-painting-mountain-landscape-with-waterfall-trees_567739-2839.jpg" 
                     alt="" className='h-full w-full' />
                 </div>

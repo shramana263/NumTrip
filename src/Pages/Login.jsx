@@ -37,9 +37,9 @@ const Login = () => {
 
   return (
     <>
-    <div className='flex flex-col gap-6 w-screen h-[90vh] items-center'>
+    <div className='flex flex-col gap-6 w-screen h-[100vh] items-center'>
               
-              <div className='h-[92vh] w-full'>
+              <div className='h-[100vh] w-full'>
                 <img src="https://img.freepik.com/premium-photo/digital-painting-mountain-landscape-with-trees-lake_567739-2994.jpg"
                 className='h-full w-full' alt="" />
               </div>

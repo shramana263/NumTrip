@@ -178,7 +178,7 @@ const HomeBackup = () => {
 
     return (
         <>
-            <div className='flex h-[92vh] w-full overflow-hidden'>
+            <div className='flex h-[100vh] w-full overflow-hidden'>
                 {/* <img src="https://w0.peakpx.com/wallpaper/165/747/HD-wallpaper-beautiful-landscape-digital-art.jpg" alt="" className='h-full w-full' /> */}
                 <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMjFfbW91bnRhaW5fY2xpZmZfM2RfY2FydG9vbl9iYWNrZ3JvdW5kXzBhOTkwYTFkLTg3ZTEtNDE3MC04NDliLTc0MTc5MGU3YTE0N18xLmpwZw.jpg" alt="" className='h-full w-full' />
             </div>
